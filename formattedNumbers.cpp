@@ -27,4 +27,6 @@ int main()
     }
     reverse(s.begin(), s.end());
     cout << s;
+
+    return 0;
 }
